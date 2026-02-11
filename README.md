@@ -1,4 +1,4 @@
-# Information Security Strategy Development Playbook (Regulated Environments)
+# Information Security Strategy Development (Regulated Environments)
 
 This repository documents a practical information security strategy and controls playbook designed for regulated operational environments. It demonstrates risk based thinking, control mapping, and audit ready documentation, written to be understandable by both technical and non technical stakeholders.
 
@@ -20,7 +20,7 @@ Note: organisation specific sensitive information is excluded. The focus is on t
 ### Supporting diagrams (docs)
 
 #### Risk assessment methodology
-![Risk assessment methodology flowchart](docs/risk_assessment_methodology_flowchart.jpeg)
+![Risk assessment methodology](docs/risk_assessment_methodology_flowchart.jpeg)
 
 #### Security strategy overview
 ![Security strategy overview](docs/brief_infosecurity_strategy_diagram.jpeg)
