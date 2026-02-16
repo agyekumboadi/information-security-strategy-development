@@ -2,7 +2,7 @@
 
 Start here:
 
-1) **InfoSec_Strategy_Overview_SamuelAgyekum.pdf**
+1) **InfoSecurity_Strategy_Report_SamuelAgyekum.pdf**
    - Short summary: scope, key risks, and recommended controls.
 
 2) **InfoSec_Strategy_Detailed_Report_SamuelAgyekum.pdf**
